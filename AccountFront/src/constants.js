@@ -1,0 +1,5 @@
+export const BaseURL = "http://localhost:8081"
+export const PathToCreateAccount = "/accounts/createAccount"
+export const LinkRoomNumGen = "/RoomNumberGeneration"
+export const LinkRegister = "/Register"
+export const RegisterPageLink = "./Register"
